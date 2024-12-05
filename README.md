@@ -1,4 +1,4 @@
-# Dessert Shop API
+# Ecommerce Shop API
 
 ## Project Setup
 
